@@ -1,4 +1,4 @@
-# mpv_audio_batch_youtube
+A small batch script to play youtube audio via mpv
 
 Requirements:
 1) mpv (https://mpv.io/installation/)
